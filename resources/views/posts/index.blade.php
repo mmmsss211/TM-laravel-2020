@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    Index
+    <a class="button is-primary">Primary</a>
 @endsection
